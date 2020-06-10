@@ -1,1 +1,1 @@
-kprint("hello")
+fprint("hello")
